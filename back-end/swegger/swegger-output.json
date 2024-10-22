@@ -19,5 +19,23 @@
         }
       }
     }
+  },
+  "/countries/{countryCode}": {
+    "get": {
+      "description": "",
+      "parameters": [
+        {
+          "name": "countryCode",
+          "in": "path",
+          "required": true,
+          "type": "string"
+        }
+      ],
+      "responses": {
+        "default": {
+          "description": ""
+        }
+      }
+    }
   }
 }
