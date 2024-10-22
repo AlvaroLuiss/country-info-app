@@ -9,7 +9,7 @@
 - [ ] Endpoint: Get Available Countries:
   - Create an API endpoint, using Date Nager API `https://date.nager.at/api/v3/AvailableCountries`
   - This endpoint should return a list of available countries.
-- [ ] Endpoint: Get Country Info:
+- [x] Endpoint: Get Country Info:
   - Create an API endpoint to retrieve detailed information about a specific country.
   - This endpoint should provide the following data:
     a. List of Border Countries: A list of countries that share a border with the selected country https://date.nager.at/api/v3/CountryInfo/UA.
