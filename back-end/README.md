@@ -81,7 +81,7 @@ pnpm start # recomended
 
 ```
 
-### Accesss the api
+### Access the api
 
 [SWAGGER/DOCS](http://localhost:3333/api/v1/docs)
 
