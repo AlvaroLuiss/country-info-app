@@ -37,6 +37,14 @@ pnpm install # recomended
 
 ### Start the server in development mode
 
+Get sure that the port `3333` is open.
+
+If not, add a port number to the `PORT` environment variable.
+
+```dotenv
+PORT=3333 # Default value
+```
+
 ```bash
 
 npm run dev
@@ -72,3 +80,9 @@ pnpm build # recomended
 pnpm start # recomended
 
 ```
+
+### Accesss the api
+
+[SWAGGER/DOCS](http://localhost:3333/api/v1/docs)
+
+[API](http://localhost:3333/api/v1)
