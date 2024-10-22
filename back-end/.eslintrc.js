@@ -12,7 +12,7 @@ module.exports = {
         singleQuote: true,
         trailingComma: "all",
         arrowParens: "always",
-        semi: false,
+        semi: "off",
         endOfLine: "auto",
         insertPragma: false,
       },
